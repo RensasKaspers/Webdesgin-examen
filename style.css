@@ -83,6 +83,7 @@ a {
 /* Stijlen voor de omliggende doos van de informatie */
 .box-around {
     padding: 25px;
+    display: flex;
 }
 
 /* Stijlen voor de oranje koppen */
