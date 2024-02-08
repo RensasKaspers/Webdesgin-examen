@@ -124,6 +124,8 @@ a {
     /* Breedte van de linker sectie 100% bij kleinere schermen */
     .linkerkant {
         width: 100%;
+        display: flex;
+        flex-direction:column;
     }
 
     /* Aanpassen van afbeeldingsformaten bij kleinere schermen */
