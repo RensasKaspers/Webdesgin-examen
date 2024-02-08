@@ -76,6 +76,8 @@ a {
     background-color: #FFB886;
     width: 25%;
     padding: 25px;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Stijlen voor de omliggende doos van de informatie */
