@@ -138,7 +138,7 @@ a {
     /* Aanpassen van navigatiestijlen bij kleinere schermen */
     nav {
         flex-direction: column;
-        height: 15vh;
+        height: 150px;
     }
 
     /* Aanpassen van marges voor navigatiekoppelingen bij kleinere schermen */
